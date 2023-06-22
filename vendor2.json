@@ -1,0 +1,2170 @@
+{
+    "vendors": [
+        {
+            "title": "Frango Dönər",
+            "cashback": "25%",
+            "category": "Food",
+            "url": "https://play-lh.googleusercontent.com/hMj5n5scGbCHDnoR6A94Ab9dyvpsx4Yiq0q7Xn6Mj3-q89RNJ9feVdcVpdpZ9wrsXnM=w240-h480-rw"
+        },
+        {
+            "title": "Business cup",
+            "cashback": "20%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/df5/n555hflpi5xur96tngzw0y31k8v76w8z/business%20cup.jpg"
+        },
+        {
+            "title": "Alva Jewellery",
+            "cashback": "30%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/b7e/WhatsApp%20Image%202021-06-02%20at%2018.25.19.jpeg"
+        },
+        {
+            "title": "BarberShop by Eyzamoğlu",
+            "cashback": "15%",
+            "category": "Beauty",
+            "url": "https://www.accessbank.az/upload/iblock/c29/zvpoxjqi0oc2hrpleg7ft06dr46mvsab/Eyzamo%C4%9Flu.png"
+        },
+        {
+            "title": "Special Coffee",
+            "cashback": "20%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/734/uz9suclyrpqep1nbu229q3uuv524rish/SpecialCoffee.jpg"
+        },
+        {
+            "title": "Ink Academy",
+            "cashback": "15%",
+            "category": "Education",
+            "url": "https://scontent.fgyd4-2.fna.fbcdn.net/v/t39.30808-6/301761725_504166238381104_7359483916367293078_n.png?_nc_cat=111&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Mm6Tx_bm01kAX8Wwetq&_nc_ht=scontent.fgyd4-2.fna&oh=00_AfDkAUDzAufAdNTk36odyjZmeiRiESBh4Usksxyrfqz4yw&oe=64960CB8"
+        },
+        {
+            "title": "Lux Time",
+            "cashback": "10%",
+            "category": "Shopping",
+            "url": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/56cde769188302b11bb8c83ad0b53ec8.jpeg?x-expires=1687348800&x-signature=KNLT2tzkRMbukWP%2Fvk4bqxfIBdQ%3D"
+        },
+        {
+            "title": "Matbakh",
+            "cashback": "10%",
+            "category": "Food",
+            "url": "https://scontent.fgyd4-2.fna.fbcdn.net/v/t39.30808-6/320548323_1344798066288801_3423919021300655380_n.jpg?_nc_cat=105&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mdJf4fy259cAX-QukE4&_nc_ht=scontent.fgyd4-2.fna&oh=00_AfDcOcllR69o8bs9P2jXxMlpJbxHZdvKbso30Ikc4IEpew&oe=6495B606"
+        },
+        {
+            "title": "KFC",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/a5b/egvzbj8mys1m0xtsf9r3yp4bahev3e1z/KFC-Logo-Font-1.webp"
+        },
+        {
+            "title": "Alcopoint",
+            "cashback": "2.5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/224/vl6giff043f42gwj44tytblljr08uhdp/Alcopoint.png"
+        },
+        {
+            "title": "Safastore Market",
+            "cashback": "1%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/e1b/velotkohzy2zqqbe77ofnro0dsvhreqp/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%287%29.png"
+        },
+        {
+            "title": "Pizza Hut",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/df5/j1yv3h28au87k1mcj0rynwyvvayrq9js/logo_pizzahut.png"
+        },
+        {
+            "title": "Qazmaq",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/2f6/362deid4zm7tyjoqc2ce5sjdzy858p80/qazmaq%202.jpg"
+        },
+        {
+            "title": "Salam Baku",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/bc5/iep61l05boffnmpt8rxq2q93qji3alo9/salam%20baku.jpg"
+        },
+        {
+            "title": "SanTortino",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/406/8ex30s9qv3tg9vg23kgt3640014vbziv/Edited-logo%20san%20tortino.png"
+        },
+        {
+            "title": "Xatiko Zooboutique",
+            "cashback": "5%",
+            "category": "Home",
+            "url": "https://www.accessbank.az/upload/iblock/232/sbcg7khrfh5p1r8lh7pqwvr846ltww6g/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%281%29.png"
+        },
+        {
+            "title": "Coffee Life Baku",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://scontent.fgyd4-2.fna.fbcdn.net/v/t39.30808-6/309496154_390199736656043_3046307444648870705_n.jpg?_nc_cat=109&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UfB3QSsT3ywAX_dMJRC&_nc_ht=scontent.fgyd4-2.fna&oh=00_AfB9HL9MUw-agt6MSnCwW4WRQFhFaTjjABvVNgK6uWcKDA&oe=6494569C"
+        },
+        {
+            "title": "Naomi Beauty Bar",
+            "cashback": "5%",
+            "category": "Beauty",
+            "url": "https://www.accessbank.az/upload/iblock/52b/44b9edxh0c1ni705czigjgj7j52a0lgj/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%282%29.png"
+        },
+        {
+            "title": "Jumla",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/c55/xxdbq6ue9ctk9ri610qey9h6ugim5gdh/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%283%29.png"
+        },
+        {
+            "title": "LILAC",
+            "cashback": "3%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/88a/Screenshot_3.png"
+        },
+        {
+            "title": "TeaYoume",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/eb1/0imyjkk4vbjfwnqr32i2ir36efbexf6e/Teayoume.jpg"
+        },
+        {
+            "title": "Yuka Kaiten",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/ac6/knv0td0pd1jbcfxx2uthc0qhuvmr32rz/Yuka.png"
+        },
+        {
+            "title": "Skandinaviya evi",
+            "cashback": "5%",
+            "category": "Home",
+            "url": "https://www.accessbank.az/upload/iblock/729/0e1k0k8q2akgyw65352zlt8kqa3s2idr/skandinaviyaevi.png"
+        },
+        {
+            "title": "SuperToys",
+            "cashback": "3%",
+            "category": "Kids",
+            "url": "https://www.accessbank.az/upload/iblock/d52/6svgukrei77q7f06hzm4wnviwa331ujg/supertoys.png"
+        },
+        {
+            "title": "Simit Sarayı",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/764/6edy0ra6pffdkvcfzvhfav5zkps3apvi/simit.png"
+        },
+        {
+            "title": "Park Entertainment",
+            "cashback": "5%",
+            "category": "Entertainment",
+            "url": "https://www.accessbank.az/upload/iblock/1c9/7fl4hukjd6v26xr70010oh5pj9v7utxf/parkEntertainment.png"
+        },
+        {
+            "title": "Neptun",
+            "cashback": "1%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/ac9/qio7fpjkbljzglrqoamu0dk9ouuc4r4x/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%2824%29.png"
+        },
+        {
+            "title": "Lungo",
+            "cashback": "2%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/b71/zzgdtn9cwha22tbg4acx8r3oywob0gqg/lungo.jpg"
+        },
+        {
+            "title": "Cheappolino Kids",
+            "cashback": "3%",
+            "category": "Kids",
+            "url": "https://www.accessbank.az/upload/iblock/a21/4dqoy4fe9c7pbgzsu3trflsn2g52yprv/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%2823%29.png"
+        },
+        {
+            "title": "Patchi",
+            "cashback": "2%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/724/9cjb807yd9ord1oov2gb1jbzyyi0omr8/patchi_logo_black.png"
+        },
+        {
+            "title": "Irşad",
+            "cashback": "3%",
+            "category": "Electronics",
+            "url": "https://www.accessbank.az/upload/iblock/a76/gjzeopddu2d7yw0r1e9x36i5vo7hnvs3/%C4%B0rshad.jpg"
+        },
+        {
+            "title": "Jakamen",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/b30/uahx2v4xf3bjo43ya73c1r6iojni16b1/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%2820%29.png"
+        },
+        {
+            "title": "Pushkin Pub",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/9c7/4s5195ls8euudrtmn86ouay2fg5ynpjr/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%288%29.png"
+        },
+        {
+            "title": "Greenwich Tavern",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/5e8/4pcexfrn6s49owlr8tcsimeh313b5ram/greenwich.jpg"
+        },
+        {
+            "title": "SaatStore",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/5e8/4pcexfrn6s49owlr8tcsimeh313b5ram/greenwich.jpg"
+        },
+        {
+            "title": "MyShops",
+            "cashback": "3%",
+            "category": "Electronics",
+            "url": "https://www.accessbank.az/upload/iblock/303/03bf9kb1q5l303515qrybst4sta5rh46/MyShops_Logo.jpg"
+        },
+        {
+            "title": "Bodycare",
+            "cashback": "5%",
+            "category": "Beauty",
+            "url": "https://www.accessbank.az/upload/iblock/4bb/csw02bfdr8pr4tlbg6rch9mw5notw5sc/bodycare.png"
+        },
+        {
+            "title": "Gastrobar",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/41e/5b3hx4sj9b65wdwt61phk7ur1862sq9i/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%287%29.png"
+        },
+        {
+            "title": "TastyBaku",
+            "cashback": "10%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/41c/mqf01cv5f9axqc3lu8osf0bchm1weg4b/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%286%29.png"
+        },
+        {
+            "title": "Port Wine",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/dc3/bfukrby8756hppkkcar5trcv7klmefbd/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%284%29.png"
+        },
+        {
+            "title": "Caffe Giusto",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/09d/eus0g6kzmxecvm6l4ta5mybemcgw2mpl/coffe%20guisto.jpg"
+        },
+        {
+            "title": "Balbadem Kulinariya",
+            "cashback": "7%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/15b/8uuqnoakqzzmlnoe17n11how1rsk3t8h/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%283%29.png"
+        },
+        {
+            "title": "Hollywood Planet",
+            "cashback": "3%",
+            "category": "Entertainment",
+            "url": "https://www.accessbank.az/upload/iblock/dfe/v6k0dklc3xy9licagns8pm25nz59lfn9/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%282%29.png"
+        },
+        {
+            "title": "Şirvanşah restoran",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/377/v3nriv5hkpuaat6zfl2qug0x649k0luc/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png"
+        },
+        {
+            "title": "Tiffany and Caffee",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/d1a/ohrokra1djmg21ft50cpqx2p1fq2q54u/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png"
+        },
+        {
+            "title": "Medservis",
+            "cashback": "5%",
+            "category": "Health",
+            "url": "https://www.accessbank.az/upload/iblock/647/145jbwvb4vvti1x6c51meuthfdtywayg/medservis.jpg"
+        },
+        {
+            "title": "Don Coptilio",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/077/xz0so2qtq6r82jgwe7dwyf59fkxa8u5g/coptilio_logo_page-0001.jpg"
+        },
+        {
+            "title": "Alneo",
+            "cashback": "5%",
+            "category": "Electronics",
+            "url": "https://www.accessbank.az/upload/iblock/3c5/ao1gkz92ilkvm3y35l3ftfzcjyq41344/alneo.png"
+        },
+        {
+            "title": "Le Plaissir Klunariya",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/3c5/ao1gkz92ilkvm3y35l3ftfzcjyq41344/alneo.png"
+        },
+        {
+            "title": "Stara Praga",
+            "cashback": "6%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/5cb/vs0n1iohlimvx7s6kqdsg191raapo5v1/starapraga%20pub%20lunch%20%281%29.jpg"
+        },
+        {
+            "title": "Kurabiye Cake Boutique",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/1d8/tn1wmdx69uwdy5c1v7az2j7r9biiwq47/kurabiye%20cake.jpg"
+        },
+        {
+            "title": "Zəka Dəftərxana",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/024/ozt052bwc37aahrrzzn96wrk6by92wg7/Zeka.png"
+        },
+        {
+            "title": "Texnomart",
+            "cashback": "5%",
+            "category": "Electronics",
+            "url": "https://www.accessbank.az/upload/iblock/2cf/pxte3uv21faqq3i2w5gbp1uyubdp33n2/texnomart.jpg"
+        },
+        {
+            "title": "Yaban Pub",
+            "cashback": "2%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/d1e/idx2xa4h74q1dhht01wiwdxeif29fvf2/yaban%20pub.png"
+        },
+        {
+            "title": "Soul Kitchen",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/451/8zds4kgmga2tvoo8an9v24g0z3y76e8a/soulkitchen.jpg"
+        },
+        {
+            "title": "Sport Box",
+            "cashback": "7%",
+            "category": "Kids",
+            "url": "https://www.accessbank.az/upload/iblock/544/iy1pdzcm4dh3nyypjsy9xs7cy8nsav1n/sports%20box.jpeg"
+        },
+        {
+            "title": "My Laundry",
+            "cashback": "10%",
+            "category": "Home",
+            "url": "https://www.accessbank.az/upload/iblock/846/jzsurcmmr8m146pqb1hrvocx0hdpmhoz/my%20laundry.png"
+        },
+        {
+            "title": "Smart Electronics",
+            "cashback": "4%",
+            "category": "Electronics",
+            "url": "https://www.accessbank.az/upload/iblock/70f/0kg8mh15litj8433cxm9zvw4hqd29bmz/smart%20electronics.png"
+        },
+        {
+            "title": "189 Taksi",
+            "cashback": "10%",
+            "category": "Transportation",
+            "url": "https://www.accessbank.az/upload/iblock/bce/0123dblicz2qz4d8qb9kgca7di7o48at/189.png"
+        },
+        {
+            "title": "Mziuri",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/ecf/sg9p6hl296501kx58ddgz5geoz357g98/mziuri.png"
+        },
+        {
+            "title": "Yuna Land",
+            "cashback": "10%",
+            "category": "Kids",
+            "url": "https://www.accessbank.az/upload/iblock/cfe/4cit4mtn3wx652mg2xggxlexel7ss0ii/yuna.jpg"
+        },
+        {
+            "title": "Lully's Kids Zone",
+            "cashback": "10%",
+            "category": "Kids",
+            "url": "https://www.accessbank.az/upload/iblock/085/c66r2if8mxkz8u1ecqny1ejchvi5i6ce/lully.png"
+        },
+        {
+            "title": "Maxi.az",
+            "cashback": "2%",
+            "category": "Electronics",
+            "url": "https://www.accessbank.az/upload/iblock/5e3/948iutp0ujdsa28lqzbnc57yzw2ju0g4/maxi.png"
+        },
+        {
+            "title": "Anar Optik",
+            "cashback": "10%",
+            "category": "Health",
+            "url": "https://www.accessbank.az/upload/iblock/6d2/u7wnrxjfx62qtg2qnmjl95wzh9y9zf2y/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%2828%29.png"
+        },
+        {
+            "title": "Boombalambuz",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/73a/cjaugpm4jw1i05wojhkaz20jtsusyj2t/boombalambuz.png"
+        },
+        {
+            "title": "Şassi",
+            "cashback": "2%",
+            "category": "Auto",
+            "url": "https://www.accessbank.az/upload/iblock/72e/4c2bwl3aovx98sx7v4k8vnjmgntse8rk/shassi.png"
+        },
+        {
+            "title": "Evimiz",
+            "cashback": "3%",
+            "category": "Home",
+            "url": "https://www.accessbank.az/upload/iblock/e8a/8b7pzp6mulbf2yi2q8op12bo290hzy1c/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%2821%29.png"
+        },
+        {
+            "title": "Bottelli",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/2d9/uasby8rwbvxj3wo7pqnq2h2tjqe2ijkr/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%2811%29.png"
+        },
+        {
+            "title": "Koton",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/8ad/xls8s3qxkwq3l5y5odeu48dnz9wxhccw/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%289%29.png"
+        },
+        {
+            "title": "Wake up Coffee",
+            "cashback": "15%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/e4b/qq2ixn0r3wgg47aeglts66cir71c20ds/Logo%20Wake%20Cup%20Final_page-0001.jpg"
+        },
+        {
+            "title": "HTL CLINIVA Hospital",
+            "cashback": "10%",
+            "category": "Health",
+            "url": "https://www.accessbank.az/upload/iblock/5f4/h27wmaig8xh6am4b2br9psj185w5qzyd/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%288%29.png"
+        },
+        {
+            "title": "Mustafa Tayat",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/627/cv9qfcqs89bhbe8d4e3gb9rehffh5f56/Mustafa%20Tayat.jpg"
+        },
+        {
+            "title": "Muzipo Kids Azerbaijan",
+            "cashback": "5%",
+            "category": "Kids",
+            "url": "https://www.accessbank.az/upload/iblock/355/dw4ek1byohcwj2vefydt9gu3isv17jir/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png"
+        },
+        {
+            "title": "My Auto",
+            "cashback": "5%",
+            "category": "Auto",
+            "url": "https://www.accessbank.az/upload/iblock/2ba/oawdgjfzed3ff2p11thvv1oqxc14k13y/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%286%29.png"
+        },
+        {
+            "title": "Status Avto",
+            "cashback": "3%",
+            "category": "Auto",
+            "url": "https://www.accessbank.az/upload/iblock/776/qtga19yzh5gu0pu4gydkkoky59gdb1wj/status%20avto.png"
+        },
+        {
+            "title": "Bal kimi",
+            "cashback": "3%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/654/37p3u4yyxbnhwdfqljgufqogvtoy5s1q/Bal%20kimi%20resozed.png"
+        },
+        {
+            "title": "Anadolu Restoran",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/78e/annns.JPG"
+        },
+        {
+            "title": "Lully's Kulinariya",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/49c/91692213_122311979400065_6770983205903269888_n.jpg"
+        },
+        {
+            "title": "Ballı Market",
+            "cashback": "1%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/dc8/bl1.JPG"
+        },
+        {
+            "title": "Kəndi Gətir",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/a04/imiy1n08guglz4q8warosv9nr1fa60h0/kendi%20getir%20accessqazanc.png"
+        },
+        {
+            "title": "Mudo Concept",
+            "cashback": "5%",
+            "category": "Home",
+            "url": "https://www.accessbank.az/upload/iblock/650/z6pn7w46mgqi9qygoozp3b7xj0ov922p/mudo-concept-logo_600x400.jpg"
+        },
+        {
+            "title": "Növbahar",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/650/z6pn7w46mgqi9qygoozp3b7xj0ov922p/mudo-concept-logo_600x400.jpg"
+        },
+        {
+            "title": "Zakura Bar & Dining",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/440/5nu53bklmt6ru4y5vgpsgfu9c213naj1/zakura-logo_600x400.png"
+        },
+        {
+            "title": "Monteleone",
+            "cashback": "10%",
+            "category": "Shopping",
+            "url": "https://www.accessbank.az/upload/iblock/8bd/brand-5d1bb249bd843.jpg"
+        },
+        {
+            "title": "Fireworks urban kitchen",
+            "cashback": "10%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/0be/brand-604924c6da3a6.jpg"
+        },
+        {
+            "title": "The Tea Lounge",
+            "cashback": "10%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/0be/brand-604924c6da3a6.jpg"
+        },
+        {
+            "title": "Razzmatazz Cocktail Bar & Lounge",
+            "cashback": "10%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/401/1%20%281%29.jpg"
+        },
+        {
+            "title": "OreNore Bar & Ristorante",
+            "cashback": "10%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/561/download%20%281%29.png"
+        },
+        {
+            "title": "Zest Lifestyle Cafe",
+            "cashback": "10%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/b2a/brand-60492317a384f.jpg"
+        },
+        {
+            "title": "FedEx Express",
+            "cashback": "5%",
+            "category": "Cargo",
+            "url": "https://www.accessbank.az/upload/iblock/0f0/brand-5dea35c38346b.jpg"
+        },
+        {
+            "title": "Cook Shop(tasting cafe)",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.accessbank.az/upload/iblock/074/cookshop_logo_01.png"
+        },
+        {
+            "title": "Step IT Academy",
+            "cashback": "5%",
+            "category": "Education",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/step-logo_600x400.png"
+        },
+        {
+            "title": "AvtoDetal",
+            "cashback": "5%",
+            "category": "Auto",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/avtodetal-logo_600x400.jpg"
+        },
+        {
+            "title": "Wild West Wings",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/wild-west-wings-logo_600x400.png"
+        },
+        {
+            "title": "Unipoint Baku",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/Unipoint-logo_600x400.png"
+        },
+        {
+            "title": "Sushi Room",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/sushi-room-logo_600x400.png"
+        },
+        {
+            "title": "Social Bee",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/social-bee-logo_600x400.jpg"
+        },
+        {
+            "title": "Seashell Oyster Bar",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/seashell-logo_600x400.jpg"
+        },
+        {
+            "title": "Nogul Lounge & Terrace",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/seashell-logo_600x400.jpg"
+        },
+        {
+            "title": "iSpace",
+            "cashback": "5%",
+            "category": "Electronics",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/ispace-logo_600x400.jpg"
+        },
+        {
+            "title": "Roses are Red",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/Roses-are-red-logo_600x400.png"
+        },
+        {
+            "title": "Schafer",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/Schafer-logo_600x400.png"
+        },
+        {
+            "title": "Katsu Space",
+            "cashback": "10%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/katsu-logo_600x400.png"
+        },
+        {
+            "title": "13 Restaurant",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/13-restaurant-logo_600x400.png"
+        },
+        {
+            "title": "Bake and Roll",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/bake-roll-logo_600x400.png"
+        },
+        {
+            "title": "Coffee Mood",
+            "cashback": "5%",
+            "category": "Food",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/coffee-mood-logo_600x400.jpg"
+        },
+        {
+            "title": "Chicco",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/chicco-logo_600x400.jpg"
+        },
+        {
+            "title": "Kepro Shop",
+            "cashback": "5%",
+            "category": "Shopping",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/kepro-shop-logo_600x400.jpg"
+        },
+        {
+            "title": "Amazon Travel Club",
+            "cashback": "3%",
+            "category": "Travel",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/amazon-travel-logo_600x400.png"
+        },
+        {
+            "title": "Cinema Plus",
+            "cashback": "10%",
+            "category": "Entertainment",
+            "url": "https://www.mastercard.az/content/dam/public/mastercardcom/eu/az/en/sizin/icons/cinema-plus-logo_600x400.jpg"
+        },
+        {
+            "title": "Hepsiburada Global",
+            "cashback": "1.93%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/hg_logo_v5.svg"
+        },
+        {
+            "title": "Mango",
+            "cashback": "1.88%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/mango.jpg"
+        },
+        {
+            "title": "Stradivarius",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Stradivarius_logo.png"
+        },
+        {
+            "title": "Pull and Bear",
+            "cashback": "2.54%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/pullnbear.png"
+        },
+        {
+            "title": "Ipekyol",
+            "cashback": "4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ipekyol.png"
+        },
+        {
+            "title": "US Polo ASSN",
+            "cashback": "3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/uspoloass.png"
+        },
+        {
+            "title": "Morhipo",
+            "cashback": "2.1%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/morhipo.png"
+        },
+        {
+            "title": "Penti",
+            "cashback": "2.8%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/penti-new.svg"
+        },
+        {
+            "title": "Pierre Cardin",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/pierre-cardin-new.png"
+        },
+        {
+            "title": "Mavi",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/mavitr.png"
+        },
+        {
+            "title": "Koton",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/koton.png"
+        },
+        {
+            "title": "AliExpress",
+            "cashback": "3.8%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/epn/new/aliexpress.png"
+        },
+        {
+            "title": "Gratis",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/gratis.png"
+        },
+        {
+            "title": "D&R",
+            "cashback": "1.65%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/dnr.png"
+        },
+        {
+            "title": "Colins",
+            "cashback": "4.95%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/colins.png"
+        },
+        {
+            "title": "iHerb",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/iherb.png"
+        },
+        {
+            "title": "Avva",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/avva.png"
+        },
+        {
+            "title": "DS Damat",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/dsdamat.png"
+        },
+        {
+            "title": "Sportive.com.tr",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/sportive.png"
+        },
+        {
+            "title": "Benetton",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/benetton-green.png"
+        },
+        {
+            "title": "Madame Coco",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/madamecoco.png"
+        },
+        {
+            "title": "Twist",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/twist.png"
+        },
+        {
+            "title": "Modanisa",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/modanisa.png"
+        },
+        {
+            "title": "Toucheprive",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/touch-prive.jpg"
+        },
+        {
+            "title": "SPX",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/SPX-Logo.png"
+        },
+        {
+            "title": "Bsl",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/BSL-logo.png"
+        },
+        {
+            "title": "Farfetch",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/farfetch.png"
+        },
+        {
+            "title": "The Moose Bay",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/the-moose-bay.png"
+        },
+        {
+            "title": "Eve Shop",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/eve-store.png"
+        },
+        {
+            "title": "Machka",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/machka.jpg"
+        },
+        {
+            "title": "Mudo",
+            "cashback": "2.58%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/mudo.png"
+        },
+        {
+            "title": "Arçelik",
+            "cashback": "1.65%",
+            "category": "Electronics",
+            "url": "https://bondemo.link/uploads/home/shops/arcelik.jpg"
+        },
+        {
+            "title": "Nike",
+            "cashback": "1.38%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/nike.png"
+        },
+        {
+            "title": "LTB Jeans",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ltbjnsjpg"
+        },
+        {
+            "title": "Hemington",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/hemington.png"
+        },
+        {
+            "title": "Hatemoğlu",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/hatemoglu.png"
+        },
+        {
+            "title": "Galatasaray",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/galatasaray-store.png"
+        },
+        {
+            "title": "Network",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/network.png"
+        },
+        {
+            "title": "iyiyizbiz.com",
+            "cashback": "1.93%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/iyiyizbizcom.png"
+        },
+        {
+            "title": "Vivense",
+            "cashback": "1.93%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/vivense.png"
+        },
+        {
+            "title": "Levidor",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/levidor.png"
+        },
+        {
+            "title": "Fivescarf",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/five-scarf.png"
+        },
+        {
+            "title": "Azall",
+            "cashback": "3.27%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/azall.png"
+        },
+        {
+            "title": "Playsports",
+            "cashback": "4.62%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/playsport.png"
+        },
+        {
+            "title": "Super Step",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/superstep.png"
+        },
+        {
+            "title": "Fash Fed",
+            "cashback": "2.7%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/fashfed-bonaz-cashback-kupon-iade.png"
+        },
+        {
+            "title": "PUMA",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/puma.png"
+        },
+        {
+            "title": "Hummel",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/hummel.png"
+        },
+        {
+            "title": "Karaca Home",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/karaca-home-newnew.png"
+        },
+        {
+            "title": "Karaca",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/karaca-newnew.png"
+        },
+        {
+            "title": "Yargıcı",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/yargici.png"
+        },
+        {
+            "title": "Tickets.com.tr",
+            "cashback": "1.38%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/tickets-com-tr.png"
+        },
+        {
+            "title": "Holimax",
+            "cashback": "1.65%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/holimax-bonpara.png"
+        },
+        {
+            "title": "MinyCenter",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/minycenter.png"
+        },
+        {
+            "title": "Vitaminler",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/vitaminler_bonpara.png"
+        },
+        {
+            "title": "Emsan",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/emsan.png"
+        },
+        {
+            "title": "Mumo Wrap",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/mumo.png"
+        },
+        {
+            "title": "Deux Lapins",
+            "cashback": "4.95%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/deux-lapins.png"
+        },
+        {
+            "title": "Sinoz Kozmetik",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/sinoz-logo.png"
+        },
+        {
+            "title": "ElModa",
+            "cashback": "11%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/elmoda.png"
+        },
+        {
+            "title": "Çorap Sepeti",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/corapsepeti.png"
+        },
+        {
+            "title": "Beko",
+            "cashback": "1.65%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Beko_logo.png"
+        },
+        {
+            "title": "Oleamea",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Oleamea.png"
+        },
+        {
+            "title": "Slazenger",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Slazenger_logo.jpg"
+        },
+        {
+            "title": "Gülaylar",
+            "cashback": "1.38%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/gulaylar-altin.jpg"
+        },
+        {
+            "title": "Tatilbudur.com",
+            "cashback": "1.65%%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/tatilbudur.png"
+        },
+        {
+            "title": "Camper",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Camper.png"
+        },
+        {
+            "title": "Psikolog Ofisi",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/psikolog-ofisi.png"
+        },
+        {
+            "title": "Idefix",
+            "cashback": "2.31%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/idefix-new.png"
+        },
+        {
+            "title": "Ucuzabilet",
+            "cashback": "1.38%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ucuza-bilet-bonpara.png"
+        },
+        {
+            "title": "Teknosa",
+            "cashback": "1.98%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/tecknosa.png"
+        },
+        {
+            "title": "Toyzz Shop",
+            "cashback": "2.86%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/toyzz.png"
+        },
+        {
+            "title": "Taç",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/tac.png"
+        },
+        {
+            "title": "Fitmoda",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/fitmoda.png"
+        },
+        {
+            "title": "Suwen",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/suwen.png"
+        },
+        {
+            "title": "Perspective",
+            "cashback": "2.48%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/perspective.png"
+        },
+        {
+            "title": "Divarese",
+            "cashback": "3.58%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/divarese.png"
+        },
+        {
+            "title": "Dilvin",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/dilvin.png"
+        },
+        {
+            "title": "Kokoma",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/kokoma.jpg"
+        },
+        {
+            "title": "Etatpur",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/etatpur.jpg"
+        },
+        {
+            "title": "Tudors",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/tudor.png"
+        },
+        {
+            "title": "Saat ve Saat",
+            "cashback": "1.1%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/saat.png"
+        },
+        {
+            "title": "Jumbo",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/jumbo.png"
+        },
+        {
+            "title": "Evidea",
+            "cashback": "3.31%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/evidea.png"
+        },
+        {
+            "title": "Konyalı Saat",
+            "cashback": "1.1%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/konyalisaat.png"
+        },
+        {
+            "title": "Wish",
+            "cashback": "0.58%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Wish-Logo-new.jpg"
+        },
+        {
+            "title": "Udemy",
+            "cashback": "8.25%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/udemy-bon.png"
+        },
+        {
+            "title": "Levi's",
+            "cashback": "2.14%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/levis.png"
+        },
+        {
+            "title": "Macy's",
+            "cashback": "1.65%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/macys.png"
+        },
+        {
+            "title": "Kiwi.com",
+            "cashback": "1.65%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/kiwi.png"
+        },
+        {
+            "title": "Samsonite",
+            "cashback": "1.38%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Samsonite.png"
+        },
+        {
+            "title": "Radisson Hotel Group",
+            "cashback": "3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/adm/radisson.png"
+        },
+        {
+            "title": "QEEQ",
+            "cashback": "1.5",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/adm/easycars.png"
+        },
+        {
+            "title": "Skip Hop",
+            "cashback": "2.53%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/skip-hop.png"
+        },
+        {
+            "title": "Cacharel",
+            "cashback": "1.38%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/cacharel.png"
+        },
+        {
+            "title": "Marks & Spencer",
+            "cashback": "1.1%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/markspenser.png"
+        },
+        {
+            "title": "Occasion",
+            "cashback": "1.93%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/occasion.png"
+        },
+        {
+            "title": "Addax",
+            "cashback": "1.93%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/addax.png"
+        },
+        {
+            "title": "Linens",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/linens.png"
+        },
+        {
+            "title": "Belk",
+            "cashback": "2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Belk-Logo.png"
+        },
+        {
+            "title": "B&H PHOTO VIDEO",
+            "cashback": "3.02%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/B&Hphoto.png"
+        },
+        {
+            "title": "CarrefourSA",
+            "cashback": "1.78%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/epn/new/carrefoursa_logo.png"
+        },
+        {
+            "title": "OnePlus",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/oneplus.png"
+        },
+        {
+            "title": "Logitech",
+            "cashback": "3.38%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/logitech.png"
+        },
+        {
+            "title": "Armine",
+            "cashback": "4.13%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/armine.jpg"
+        },
+        {
+            "title": "Lidyana",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/lidyana.png"
+        },
+        {
+            "title": "Tbrush",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/thetbrush.png"
+        },
+        {
+            "title": "Walgreens",
+            "cashback": "1.1%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/walgreens.png"
+        },
+        {
+            "title": "Zwilling",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/zwilling-bon-iade-indirim.png"
+        },
+        {
+            "title": "Çabuk Kitap",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/cabukkitap-iade-indirim-kuponlari-BON.png"
+        },
+        {
+            "title": "Shop Naos",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/naos.png"
+        },
+        {
+            "title": "Fitback",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Fitback-cashback-iade-bon-indirim-kuponlar.png"
+        },
+        {
+            "title": "Lastikcim.com",
+            "cashback": "1.93%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/lastikcim-bonaz-cashback-kupon.png"
+        },
+        {
+            "title": "City.Travel",
+            "cashback": "4.13%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/citytravel.png"
+        },
+        {
+            "title": "Pomidik",
+            "cashback": "3.69%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/pomidik-logo.png"
+        },
+        {
+            "title": "ZTE",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ZTE.png"
+        },
+        {
+            "title": "Trip.com",
+            "cashback": "2.31%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/Trip-com.png"
+        },
+        {
+            "title": "Bella Maison",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/bellamaison.jpg"
+        },
+        {
+            "title": "Evinemama",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/evinemama-cashback-iade-indirim-kodu-bon.png"
+        },
+        {
+            "title": "Myrentacar",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/myrentacar.png"
+        },
+        {
+            "title": "Koçtaş",
+            "cashback": "1.21%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/koctas.png"
+        },
+        {
+            "title": "Ayakkabidunyasi.com",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ayakkabi.png"
+        },
+        {
+            "title": "Doremusic",
+            "cashback": "1.1%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/doremusic-bonaz-kupon-iade"
+        },
+        {
+            "title": "Bpazar",
+            "cashback": "1.93%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/bpazar-bonaz-cashback-kupon-iade.png"
+        },
+        {
+            "title": "Flavus",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/flavus.png"
+        },
+        {
+            "title": "Joker",
+            "cashback": "0.83%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/joker.png"
+        },
+        {
+            "title": "Under Armour",
+            "cashback": "3.58%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/under-armour-n.png"
+        },
+        {
+            "title": "Korkmazstore.com.tr",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/korkmaz.jpg"
+        },
+        {
+            "title": "Happy.com.tr",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/happy-bonaz-cashback-kuponlar.png"
+        },
+        {
+            "title": "Avon",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/avon.png"
+        },
+        {
+            "title": "Love My Body",
+            "cashback": "2.45%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/lovemybody-cashback-kupon-iade"
+        },
+        {
+            "title": "Sportstyle",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/sportsyle-bonaz-cashback-kupon-iade.png"
+        },
+        {
+            "title": "Sneakscloud",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/sneakscloud.png"
+        },
+        {
+            "title": "Soulmeps",
+            "cashback": "4.62%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/soulmeps.png"
+        },
+        {
+            "title": "Fiverr",
+            "cashback": "2.75$",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/fiverrr.png"
+        },
+        {
+            "title": "Sonsuz Oda",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/SonOda.png"
+        },
+        {
+            "title": "MoonSport",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/moonsports.png"
+        },
+        {
+            "title": "Sosyopix",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/sosyopix.jpg"
+        },
+        {
+            "title": "Shutterstock",
+            "cashback": "12.65%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/shutterstock.png"
+        },
+        {
+            "title": "Hotiç",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/hotic.png"
+        },
+        {
+            "title": "GAP",
+            "cashback": "1.1%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/gap2.png"
+        },
+        {
+            "title": "Ruelala",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ruelala.jpg"
+        },
+        {
+            "title": "Casper",
+            "cashback": "1.1%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/casper.jpg"
+        },
+        {
+            "title": "PatPat",
+            "cashback": "6.6%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/patpat.png"
+        },
+        {
+            "title": "Drop",
+            "cashback": "2.12%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/drop.png"
+        },
+        {
+            "title": "CHARLES & KEITH",
+            "cashback": "2.64%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/charles-keith.png"
+        },
+        {
+            "title": "Gentleman'sBox",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/gentlemansbox.png"
+        },
+        {
+            "title": "Hurley",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/hurley.png"
+        },
+        {
+            "title": "Godaddy",
+            "cashback": "5.46%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/epn/new/godaddy.png"
+        },
+        {
+            "title": "Honeybum",
+            "cashback": "5.49%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/honeybum.png"
+        },
+        {
+            "title": "Adidas Headphones",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/adidasheadphones.png"
+        },
+        {
+            "title": "John Elliott",
+            "cashback": "3.21%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/john-eliott.png"
+        },
+        {
+            "title": "Eastern Mountain Sports",
+            "cashback": "5.49%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ems.png"
+        },
+        {
+            "title": "Ted Baker",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/tedbaker.png"
+        },
+        {
+            "title": "Banana Republic Factory",
+            "cashback": "2.07%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/bananarepublic-factory.png"
+        },
+        {
+            "title": "Beautycounter.com",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/bautycounter.png"
+        },
+        {
+            "title": "Old Navy",
+            "cashback": "1.79%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/oldnavy.png"
+        },
+        {
+            "title": "Gap US",
+            "cashback": "1.79%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/gap-us.png"
+        },
+        {
+            "title": "Banana Republic",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/banana-republic.png"
+        },
+        {
+            "title": "Athleta",
+            "cashback": "8.25%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/athleta.png"
+        },
+        {
+            "title": "Gap Factory",
+            "cashback": "2.07%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/gap-factory.png"
+        },
+        {
+            "title": "Hill City",
+            "cashback": "2.73%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/hillcity-gap.png"
+        },
+        {
+            "title": "Call It Spring",
+            "cashback": "3.28%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/callitspring.png"
+        },
+        {
+            "title": "Adidas Cases",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/adidascases.png"
+        },
+        {
+            "title": "NORD VPN",
+            "cashback": "25.58%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/nordvpn.png"
+        },
+        {
+            "title": "Feelunique (US)",
+            "cashback": "3.83%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/feelunique.png"
+        },
+        {
+            "title": "oakley",
+            "cashback": "4.94%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/oakley.png"
+        },
+        {
+            "title": "NYX Cosmetics",
+            "cashback": "4.39%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/nyx.png"
+        },
+        {
+            "title": "Kenneth Cole",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/kennethcole.png"
+        },
+        {
+            "title": "ANINE BING",
+            "cashback": "6.6%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/anine-bing.png"
+        },
+        {
+            "title": "SunglassHut",
+            "cashback": "4.94%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/sunglasshut.png"
+        },
+        {
+            "title": "Shiekh",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/shiekh.png"
+        },
+        {
+            "title": "Kohl's",
+            "cashback": "1.65%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/kohls.png"
+        },
+        {
+            "title": "Bugatchi",
+            "cashback": "3.29%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/bugatchi.png"
+        },
+        {
+            "title": "OshkoshB'gosh",
+            "cashback": "1.03%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/oshkosh.png"
+        },
+        {
+            "title": "Peacock Alley",
+            "cashback": "6.6%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/epn/new/peacock-alley.png"
+        },
+        {
+            "title": "Dockers shoes",
+            "cashback": "6.04%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/dockers.png"
+        },
+        {
+            "title": "Guess",
+            "cashback": "2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/guess.png"
+        },
+        {
+            "title": "G by guess",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/gbyguess.png"
+        },
+        {
+            "title": "Guess factory",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/guess-factory.png"
+        },
+        {
+            "title": "Guess by Marciano",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/marciano.png"
+        },
+        {
+            "title": "New Balance",
+            "cashback": "2.44%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/new-balance.png"
+        },
+        {
+            "title": "Nordstrom Rack",
+            "cashback": "2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/epn/new/nordstromrack.png"
+        },
+        {
+            "title": "Nina Shoes",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/nina-shoes.png"
+        },
+        {
+            "title": "Jimmy Choo US",
+            "cashback": "6.32%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/jimmychoo.png"
+        },
+        {
+            "title": "Alternative Apparel",
+            "cashback": "4.13%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/alternative.png"
+        },
+        {
+            "title": "DC Shoes",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/dcshoes.png"
+        },
+        {
+            "title": "The Donna Karan Company",
+            "cashback": "3.29%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/dkny.png"
+        },
+        {
+            "title": "Steve Madden",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/stevemadden.png"
+        },
+        {
+            "title": "Chinese Laundry",
+            "cashback": "7.43%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/chineselaundry.png"
+        },
+        {
+            "title": "MissFox",
+            "cashback": "5.49%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/missfox.png"
+        },
+        {
+            "title": "Jua",
+            "cashback": "2.15%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/jua.png"
+        },
+        {
+            "title": "Exxe Selection",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/exxe.png"
+        },
+        {
+            "title": "The Luxury Closet",
+            "cashback": "2.96%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/thelux.png"
+        },
+        {
+            "title": "MarkaStok",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/markastock.png"
+        },
+        {
+            "title": "Glasseslit",
+            "cashback": "9.9%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/glasseslit.png"
+        },
+        {
+            "title": "G Lingerie",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/g-lingerie-logo.jpg"
+        },
+        {
+            "title": "Hatice Teyze",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/hatice-teyze-logo.jpg"
+        },
+        {
+            "title": "Kelebek Mobilya",
+            "cashback": "1.38%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/kelebek.png"
+        },
+        {
+            "title": "Black Star Wear",
+            "cashback": "3.59%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/black-star.png"
+        },
+        {
+            "title": "Enjoybook",
+            "cashback": "9.9%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/enjoybook.png"
+        },
+        {
+            "title": "The Mia",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/the-mia.png"
+        },
+        {
+            "title": "Black Spade",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/bslogo.png"
+        },
+        {
+            "title": "Discover cars",
+            "cashback": "2.48%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/discover-cars.png"
+        },
+        {
+            "title": "Temel",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/temel-new.png"
+        },
+        {
+            "title": "Ruum Store",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ruumstore.png"
+        },
+        {
+            "title": "DESA",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/desa.png"
+        },
+        {
+            "title": "Geekbuying",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/epn/new/geekbuy.png"
+        },
+        {
+            "title": "BanggoodA",
+            "cashback": "7.15%",
+            "category": "Shopping",
+            "url": "https://cdn.admitad.com/campaign/images/2015/03/13/26eb60d1e6b5d4ec7c92062e5d1e8430.jpg"
+        },
+        {
+            "title": "DHgate",
+            "cashback": "8.25%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/dhgate.png"
+        },
+        {
+            "title": "Fairyseason",
+            "cashback": "8.25%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/fairy.png"
+        },
+        {
+            "title": "TVC-mall",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/tvcmall.png"
+        },
+        {
+            "title": "Foreo",
+            "cashback": "2.09%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/foreo.png"
+        },
+        {
+            "title": "Boutiquefeel",
+            "cashback": "6.6%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/boutiqfeel.png"
+        },
+        {
+            "title": "ChicMe",
+            "cashback": "6.6%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/chicme.png"
+        },
+        {
+            "title": "Depositphotos",
+            "cashback": "11%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/depositphotos.png"
+        },
+        {
+            "title": "Lightinthebox",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/light.png"
+        },
+        {
+            "title": "Kaspersky",
+            "cashback": "8.25%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/kaspersky.png"
+        },
+        {
+            "title": "Compensair",
+            "cashback": "11€",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/adm/compensair.png"
+        },
+        {
+            "title": "Newchic",
+            "cashback": "6.6%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/newchic.png"
+        },
+        {
+            "title": "Gepur",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/gepur.png"
+        },
+        {
+            "title": "Conteshop",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/conte.png"
+        },
+        {
+            "title": "Ivrose",
+            "cashback": "6.6%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ivrose.png"
+        },
+        {
+            "title": "Orby",
+            "cashback": "8.42%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/orby.png"
+        },
+        {
+            "title": "Unuttumsanma",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/unuttumsanma.png"
+        },
+        {
+            "title": "Tiqets",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/adm/tiqets.png"
+        },
+        {
+            "title": "Voidu",
+            "cashback": "1.93%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/voidu.png"
+        },
+        {
+            "title": "Clarks USA",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/clarks.png"
+        },
+        {
+            "title": "Cafago",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/cafago.png"
+        },
+        {
+            "title": "Peggybuy",
+            "cashback": "6.6%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/peggybuy.png"
+        },
+        {
+            "title": "Rentalcars",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/rentalcars.png"
+        },
+        {
+            "title": "Pera Bulvarı",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/pera.png"
+        },
+        {
+            "title": "İlvi.com",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ilvi.png"
+        },
+        {
+            "title": "Emel Pırlanta",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/emel.png"
+        },
+        {
+            "title": "Ptt AVM",
+            "cashback": "0.88%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/pttavm.jpg"
+        },
+        {
+            "title": "Chaads",
+            "cashback": "13.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/chaads.png"
+        },
+        {
+            "title": "Kuaybe Gider",
+            "cashback": "3.08%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/kuaybe-gider.jpg"
+        },
+        {
+            "title": "Nevzat Onay",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/nevzat.jpg"
+        },
+        {
+            "title": "Ebebek",
+            "cashback": "1.38%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/ebebek.png"
+        },
+        {
+            "title": "Columbia",
+            "cashback": "3.58%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/coumbia.png"
+        },
+        {
+            "title": "Mamaplus",
+            "cashback": "2.48%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/mama-plus.jpg"
+        },
+        {
+            "title": "KoraySpor",
+            "cashback": "2.75%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/korayspor.png"
+        },
+        {
+            "title": "Aker",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/aker.png"
+        },
+        {
+            "title": "Pırlanta Merkezi",
+            "cashback": "4.4%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/pirlantamerkezi.png"
+        },
+        {
+            "title": "Lizay Pırlanta",
+            "cashback": "3.3%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/lizay.png"
+        },
+        {
+            "title": "Neredennereye.com",
+            "cashback": "1.1%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/neredennereye.jpg"
+        },
+        {
+            "title": "Silk and Cashmere",
+            "cashback": "2.42%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/silkandcashmere.png"
+        },
+        {
+            "title": "La Redoute",
+            "cashback": "2.2%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/laredoute.png"
+        },
+        {
+            "title": "Yalıspor",
+            "cashback": "3.85%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/yalispor.png"
+        },
+        {
+            "title": "Proteinocean",
+            "cashback": "5.5%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/protein.png"
+        },
+        {
+            "title": "Yakala.co",
+            "cashback": "1.93%",
+            "category": "Shopping",
+            "url": "https://bondemo.link/uploads/home/shops/yakala.png"
+        }
+    ]
+}
